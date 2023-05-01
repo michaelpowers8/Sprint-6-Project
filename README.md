@@ -4,7 +4,7 @@ You're working as an analyst for Zuber, a new ride-sharing company that's launch
 Working with a database, you'll analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
 ## Description of the data:
 A database with info on taxi rides in Chicago:
-neighborhoods table: data on city neighborhoods
+neighborhoods table: data on city neighborhoods\n\n\n
 name: name of the neighborhood
 neighborhood_id: neighborhood code
 cabs table: data on taxis
