@@ -17,8 +17,8 @@ from scipy import stats
 # In[40]:
 
 
-first_query = "/datasets/project_sql_result_01.csv"
-second_query = "/datasets/project_sql_result_04.csv"
+first_query = "project_sql_result_01.csv"
+second_query = "project_sql_result_04.csv"
 
 
 # In[41]:
